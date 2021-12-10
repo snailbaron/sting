@@ -1,0 +1,9 @@
+[submodule "dep/SFML"]
+	path = dep/SFML
+	url = https://github.com/SFML/SFML.git
+[submodule "dep/thing"]
+	path = dep/thing
+	url = https://github.com/snailbaron/thing.git
+[submodule "dep/Catch2"]
+	path = dep/Catch2
+	url = https://github.com/catchorg/Catch2.git
